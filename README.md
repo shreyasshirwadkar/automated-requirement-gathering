@@ -1,6 +1,5 @@
 # 🚧 Automated Requirement Gathering (In Progress)
 
-![image](https://github.com/user-attachments/assets/93b690a4-5a87-4ee0-821c-cd6569a2fa79)# automated-requirement-gathering
 ![image](https://github.com/user-attachments/assets/192b5bbe-dc85-410b-b5dd-f9306cca7018)
 ![image](https://github.com/user-attachments/assets/8ca29d88-c9d4-4f15-bae7-c3ecdf5bc163)
 ![image](https://github.com/user-attachments/assets/c8724d08-49ec-4e92-b78c-92ed66a87b1f)
