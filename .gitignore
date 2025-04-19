@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+myenv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+
+# FastAPI logs
+*.log
+
+# Database files (if using SQLite for dev)
+*.sqlite3
+
+# macOS & Linux & Windows junk
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Pydantic cache
+.pydantic/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# Alembic migration history (optional)
+alembic/versions/
+
+# Uvicorn reload files
+*.pid
+
+# Docker stuff
+*.log
+*.pid
+*.sock
+
+# Pipenv
+Pipfile.lock
+
+# Pyre type checker
+.pyre/
